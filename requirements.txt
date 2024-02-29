@@ -1,0 +1,7 @@
+asyncio
+accuweather
+mysql-connector-python
+requests
+pytz
+PyYAML
+websockets
